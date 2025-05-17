@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it."
+title: "TrendAnalysis"
+authors:
+  - family-names: "Kaya"
+    given-names: "Mr."
+    orcid: "0000-0000-0000-0000"
+license: "MIT"
+date-released: "2023-01-01"
