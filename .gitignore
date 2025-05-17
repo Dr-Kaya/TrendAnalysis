@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# CSV output files
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+
+# Python environment artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# macOS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
